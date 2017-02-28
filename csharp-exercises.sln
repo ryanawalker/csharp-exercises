@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumEvens", "SumEvens\SumEve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLengthCheck", "StringLengthCheck\StringLengthCheck.csproj", "{13F7E71D-6B93-485D-BE30-27C0B767185B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintInArray", "PrintInArray\PrintInArray.csproj", "{3F7CD0C7-33A3-4268-9EE2-C85AE5954640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{13F7E71D-6B93-485D-BE30-27C0B767185B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13F7E71D-6B93-485D-BE30-27C0B767185B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13F7E71D-6B93-485D-BE30-27C0B767185B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7CD0C7-33A3-4268-9EE2-C85AE5954640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7CD0C7-33A3-4268-9EE2-C85AE5954640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7CD0C7-33A3-4268-9EE2-C85AE5954640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7CD0C7-33A3-4268-9EE2-C85AE5954640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
