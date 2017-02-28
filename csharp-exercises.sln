@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLengthCheck", "String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintInArray", "PrintInArray\PrintInArray.csproj", "{3F7CD0C7-33A3-4268-9EE2-C85AE5954640}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RosterDict", "RosterDict\RosterDict.csproj", "{AA1C0E6D-8C4C-4EC2-8966-C2D00B0637F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3F7CD0C7-33A3-4268-9EE2-C85AE5954640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F7CD0C7-33A3-4268-9EE2-C85AE5954640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F7CD0C7-33A3-4268-9EE2-C85AE5954640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1C0E6D-8C4C-4EC2-8966-C2D00B0637F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1C0E6D-8C4C-4EC2-8966-C2D00B0637F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1C0E6D-8C4C-4EC2-8966-C2D00B0637F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1C0E6D-8C4C-4EC2-8966-C2D00B0637F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
