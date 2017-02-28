@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumEvens", "SumEvens\SumEvens.csproj", "{627D8F11-F4B2-410D-886D-8EC8C266FBA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLengthCheck", "StringLengthCheck\StringLengthCheck.csproj", "{13F7E71D-6B93-485D-BE30-27C0B767185B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{627D8F11-F4B2-410D-886D-8EC8C266FBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{627D8F11-F4B2-410D-886D-8EC8C266FBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{627D8F11-F4B2-410D-886D-8EC8C266FBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F7E71D-6B93-485D-BE30-27C0B767185B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F7E71D-6B93-485D-BE30-27C0B767185B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F7E71D-6B93-485D-BE30-27C0B767185B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F7E71D-6B93-485D-BE30-27C0B767185B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
